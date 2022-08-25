@@ -57,11 +57,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Web platformumuz ile engelli bireylerin pozisyon bazlı ve
-                    erişilebilir eğitimler vererek iş hayatına hazır hale
-                    getirmek. İşverenlere de engelli bireyleri hangi pozisyona
-                    yerleştireceğini aktaran ve engelliler ile ilgili
-                    farkındalık eğitimleri sunmayı amaçlayan bir platformdur..
+                    — Engellilerin iş ararken karşılaştıkları problemleri bizzat deneyimledim. EşitCV projesi bu problemleri çözmeyi amaçlıyor
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -80,11 +76,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Web platformumuz ile engelli bireylerin pozisyon bazlı ve
-                    erişilebilir eğitimler vererek iş hayatına hazır hale
-                    getirmek. İşverenlere de engelli bireyleri hangi pozisyona
-                    yerleştireceğini aktaran ve engelliler ile ilgili
-                    farkındalık eğitimleri sunmayı amaçlayan bir platformdur.
+                  Eşitcv; Platin Ailesi olarak edindiğimiz “Herkesin bu ailenin bir parçası olduğu” ilkemiz doğrultusunda iş arayan ve ekonomik özgürlük arzusu olan engelli arkadaşlarımıza ve ilgili pozisyonlarda istihdam sağlayacak işverenlerimize danışmanlık hizmeti vererek toplumumuza daha bilinçli bir çalışma ortamı ve daha nitelikli çalışma arkadaşları hazırlar. Engelsiz Dünya için biz de varız!
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -106,20 +98,16 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    Web platformumuz ile engelli bireylerin pozisyon bazlı ve
-                    erişilebilir eğitimler vererek iş hayatına hazır hale
-                    getirmek. İşverenlere de engelli bireyleri hangi pozisyona
-                    yerleştireceğini aktaran ve engelliler ile ilgili
-                    farkındalık eğitimleri sunmayı amaçlayan bir platformdur.
+                  EşitCv benim için engelli bireylerin iş hayatına kazanımlarına yardımcı olabileceğimiz bir platform. Bu projeye katkıda bulunmak, arka yüzünü yazmak benim için çok keyifli bir süreçti.
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">
-                    Proje Yöneticisi
+                    İpek SERTTAŞ
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Eren ÖZ</a>
+                    <a href="#0">Back-End Developer </a>
                   </span>
                 </div>
               </div>
